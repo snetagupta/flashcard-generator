@@ -43,7 +43,7 @@ const CreateTerm = ({ values, setFieldValue }) => {
                     htmlFor={`Defination${item}`}
                     label={"Enter Defination"}
                     id={`Defination-${item}`}
-                    placeholder={"Enter your defination"}
+                    // placeholder={"Enter your defination"}
                   />
                   {!item.image && (
                     <div>
