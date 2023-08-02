@@ -45,14 +45,6 @@ const Card = ({ group, groupDesc, terms, image, id }) => {
           </span>
         </div>
       </div>
-      <div className="break-words line-clamp-1">
-          <h2 className="font-bold text-lg break-words line-clamp-1">
-            {group}
-          </h2>
-          <span className="text-gray-500 font-semibold">
-            {terms.length} {terms.length <= 1 ? "Term" : "Terms"}
-          </span>
-        </div>
 
       <div className="my-4">
         <p className="text-gray-600 line-clamp-2">{groupDesc}</p>
