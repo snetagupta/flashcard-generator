@@ -35,7 +35,7 @@ const CreateTerm = ({ values, setFieldValue }) => {
                     htmlFor={`Term${item}`}
                     label={"Enter Term"}
                     id={`Term-${item}`}
-                    placeholder={"Write here"}
+                    placeholder={"Write your term here"}
                   />
                   {/* Enter Defination input */}
                   <FieldInput
