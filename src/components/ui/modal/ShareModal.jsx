@@ -22,7 +22,7 @@ import { useSelector } from "react-redux";
 
 const ShareModal = ({ show, hide }) => {
   const { flashcards } = useSelector((state) => state.flashCardData);
-
+ //using multiple react icon here
   const { id } = useParams();
   const socialShare = [
     {
