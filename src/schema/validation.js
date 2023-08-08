@@ -2,7 +2,7 @@
 import * as Yup from "yup";
 
 // This function exports a `flashcardSchema` object.
-// The `flashcardSchema` object is used to validate the data submitted by the user in the flashcard form.
+// The `flashcardSchema` object is used to validate  data submitted by the user in the flashcard form.
 export const flashcardSchema = Yup.object().shape({
   // The `groups` property is an object that represents the groups of flashcards.
   groups: Yup.object().shape({
