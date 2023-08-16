@@ -13,7 +13,7 @@ Flashcard Generator is a web application that allows users to create, manage, an
 
 Click on the link to see my flashcard generator website
 <h2 align='center'>
-<a href='https://flashcardapp123.netlify.app/'>Click here</a>
+<a href='https://flashcardapp123-snetagupta.netlify.app/'>Click here</a>
 </h2>
 
 <p align="center">
@@ -29,17 +29,15 @@ Click on the link to see my flashcard generator website
 - [Tech Stack](#tech-stack)
 - [Feedback](#feedback)
 - [Build Process](#build-process)
-- [Support](#support)
 - [skills](#skills)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+
 
 ## Introduction
 
 Flashcard-generator is a powerful flashcard generator app designed to supercharge your learning process. With it's beginner friendly interface you can create and orgnize your flashcards very easily. Whether you're preparing for exams, learning new languages, or enhancing your knowledge in any subject, Flashcard-generator helps you retain information effectively and boost your learning potential.
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Features
 
@@ -67,7 +65,6 @@ Flashcard Generator is built using the following technologies:
 
 Feel free to send us feedback on [Twitter](https://twitter.com/SnetaGupta). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-If there's anything you'd like to chat about, please feel free to join our [Discord chat](https://discord.com/)!
 
 
 ## Build Process
