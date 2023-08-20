@@ -1,4 +1,4 @@
-// main flashcard Top Navbar
+// Main flashcard Top Navbar
 
 import React from "react";
 import Logo from "../../../assets/logo.png";
