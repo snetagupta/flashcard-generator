@@ -93,9 +93,7 @@ Javascript, HTML, CSS, ReactJS, Redux.
 
 Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
 
-## Acknowledgements
 
-We would like to thank the contributors to this project for their valuable contributions.
 
 
 ---
